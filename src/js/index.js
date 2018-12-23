@@ -17,4 +17,8 @@ $(document).ready(function(){
         prevArrow: <i class="fas fa-angle-left"></i>,
         nextArrow: <i class="fas fa-angle-right"></i>,
     });
+    $('.fab').click(function(e){
+        e.preventDefault();
+        console.log(1);
+    });
 });
