@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="152px" height="23px" viewBox="0 0 152 23">
+<style type="text/css"><![CDATA[
+.style0 {
+  font-size: 26px;
+  font-family: "NexaBold";
+  fill: rgb(255,255,255);
+  text-transform: uppercase;
+}
+]]></style>
+<g><text transform="translate(55.00,21.00)" class="style0"><tspan x="0.00 12.71 30.71 46.62 66.61" fill="rgb(255,255,255)">Fapor</tspan></text><path fillRule="evenodd" d="M 0 5C 0 5 0 0 0 0 0 0 25 0 25 0 25 0 25 5 25 5 25 5 0 5 0 5ZM 17 14C 17 14 0 14 0 14 0 14 0 9 0 9 0 9 17 9 17 9 17 9 17 14 17 14ZM 10 23C 10 23 0 23 0 23 0 23 0 18 0 18 0 18 10 18 10 18 10 18 10 23 10 23Z" fill="rgb(181,161,99)"/></g></svg>
